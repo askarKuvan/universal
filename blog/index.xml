@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Universal</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2019 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rules</title>
+      <link>/blog/2019/10/19/rules/</link>
+      <pubDate>Sat, 19 Oct 2019 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2019/10/19/rules/</guid>
+      <description>Announcing the ICPC North America Championship The 2019 ICPC North America Region-Specific Rules Introduction The 2019 ICPC North America regional contests are organized into eleven regional contests. Fifty-five (55) top performing teams from these regional contests will advance to the 2020 ICPC North America Championship (“ICPC NAC 2020”). No two teams from the same university may advance. ICPC NAC 2020 is scheduled for February 19-23, 2020, in Atlanta, Georgia, hosted by Georgia Tech College of Computing.</description>
+    </item>
+    
+    <item>
+      <title>Sponsoring</title>
+      <link>/blog/2019/10/18/sponsoring/</link>
+      <pubDate>Fri, 18 Oct 2019 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2019/10/18/sponsoring/</guid>
+      <description>Interested in ICPC Sponsorship? Contact sponsor@icpc.foundation About the ICPC Foundation The ICPC Foundation is a 501(c)(3) organization founded to advance the art and sport of competitive programming for the benefit of society. The foundation is responsible for ICPC sponsorship, fundraising, outreach, and operational matters. The ICPC Foundation strives to provide ample opportunity for the underserved, to create a tier of regional championships to recognize far more star performers and showcase emerging talent, and to bring ICPC alumni together, assuring future generations paths of excellence to being great problem solvers.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>/blog/2019/10/17/faq/</link>
+      <pubDate>Thu, 17 Oct 2019 21:49:18 +0200</pubDate>
+      
+      <guid>/blog/2019/10/17/faq/</guid>
+      <description>Frequently Asked Questions about the North America Championship - NAC 2020 1. What is NAC? The NAC is a new competition designed to provide a World Finals style experience for teams in North America. Teams from the US and Canada will be invited to a multi-day event at a 5-star facility with meals, first-class hotel rooms, entertainment, and, of course, a fantastic contest provided to all participants.
+2. What are the advantages of a North America Championship?</description>
+    </item>
+    
+  </channel>
+</rss>
