@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-10-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/10/19/rules/</loc>
+    <lastmod>2019-10-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/10/18/sponsoring/</loc>
+    <lastmod>2019-10-18T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/10/17/faq/</loc>
+    <lastmod>2019-10-17T21:49:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
